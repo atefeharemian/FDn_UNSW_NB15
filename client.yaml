@@ -1,0 +1,4 @@
+network_id: fedn-network
+# discover_host: 192.168.2.114
+discover_host: api-server
+discover_port: 8092
